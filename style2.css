@@ -1,0 +1,27 @@
+#cuadradoAzul{
+ background-color: blue;
+ width: 400px;
+ height: 400px;
+ position: absolute;
+ left: 0;
+ top: 0;
+
+}
+#cuadradoVerde{
+    background-color:green;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+#cuadradoNegro{
+    background-color:black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+
